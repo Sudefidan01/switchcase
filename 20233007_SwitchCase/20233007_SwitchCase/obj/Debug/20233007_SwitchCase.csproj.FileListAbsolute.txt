@@ -1,0 +1,8 @@
+C:\Users\smart.konuk\source\repos\20233007_SwitchCase\20233007_SwitchCase\bin\Debug\20233007_SwitchCase.exe.config
+C:\Users\smart.konuk\source\repos\20233007_SwitchCase\20233007_SwitchCase\bin\Debug\20233007_SwitchCase.exe
+C:\Users\smart.konuk\source\repos\20233007_SwitchCase\20233007_SwitchCase\bin\Debug\20233007_SwitchCase.pdb
+C:\Users\smart.konuk\source\repos\20233007_SwitchCase\20233007_SwitchCase\obj\Debug\20233007_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\smart.konuk\source\repos\20233007_SwitchCase\20233007_SwitchCase\obj\Debug\20233007_SwitchCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\smart.konuk\source\repos\20233007_SwitchCase\20233007_SwitchCase\obj\Debug\20233007_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\smart.konuk\source\repos\20233007_SwitchCase\20233007_SwitchCase\obj\Debug\20233007_SwitchCase.exe
+C:\Users\smart.konuk\source\repos\20233007_SwitchCase\20233007_SwitchCase\obj\Debug\20233007_SwitchCase.pdb
